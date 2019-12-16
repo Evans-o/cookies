@@ -8,6 +8,6 @@ $(document).ready(function() {
       alert("You have selected - " + countries.join(", "));
 
 
-      prompt("Delivery?");
+      prompt("Delivery")
   });
 });
